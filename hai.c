@@ -1,5 +1,6 @@
 #include <stdio.h>
 main()
 {
-printf("hai there");
+printf("hai");
+printf("how's it goin ?");
 }
