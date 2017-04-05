@@ -2,5 +2,5 @@
 main()
 {
 printf("hai");
-printf("how's it goin ?");
+printf("how's it goin ");
 }
